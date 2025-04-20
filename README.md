@@ -1,6 +1,8 @@
 #  NetraSuite  
 **LLM-Powered Network Security Assistant Tool**
 
+<img width="628" alt="banner" src="https://github.com/user-attachments/assets/782251bb-8caa-440a-8235-60b68e781d01" />
+
 NetraSuite is a terminal-based AI assistant that converts natural language prompts into real network reconnaissance commands using tools like `nmap`, `whois`, and `dig`. It uses a local LLM served via [Ollama](https://ollama.com), and provides clean, interpretable command execution — all through a conversational terminal interface.
 
 ---
@@ -107,7 +109,3 @@ Open Ports:
 │ 22 │ open  │ ssh    │ OpenSSH 8.2p1      │
 │ 80 │ open  │ http   │ Apache httpd 2.4.41│
 ╰────┴───────┴────────┴────────────────────╯
-
----
-
-You're now ready to use NetraSuite to simplify and power-up your network investigations! 🎯
